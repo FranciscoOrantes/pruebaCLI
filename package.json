@@ -1,0 +1,16 @@
+{
+  "name": "pruebainstall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "enrique-cli": "^1.0.0",
+    "githcli_francisco99": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco y Santy",
+  "license": "MIT"
+}
